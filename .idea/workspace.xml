@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bab42b24-92ab-45c8-9532-0dbc58aed878" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL File" />
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrushtiiKhiratkar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrushtiiKhiratkar/newlocalrepo.git&quot;,
+    &quot;accountId&quot;: &quot;551b2692-b5ca-4906-af3c-405892d6832b&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pycharm/behave_runner.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.3159091" />
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tClUqmAM07GJdKnElAZeUqBy2r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Behave.Add_Product.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Add_Product.feature:Add the items to the cart.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Add__To_Cart.feature:Add the items to the cart.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.AutomationExercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.AutomationExercise1.feature:Sign Up to create an account.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.F1.feature:Test that the login functionality works for different users with varying credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Google.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSeach.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSeachTest.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSeachTest.feature:test google search.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSearchTest.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSearchTest.feature:.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSearchTest.feature:Test google search.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.GoogleSearchTest.feature:test google search.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Log_2_in.feature:Successful Login.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.Product_Cost.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Product_Cost.feature:User wants to check the price.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.SearchResults.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Signup.feature.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.Signup.feature:Signup with new user credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Videos_Tutorial.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.Videos_Tutorial.feature:User wants to watch videos.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.ae.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.ae.feature2.feature:Login with invalid credentials.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.ae.feature:Login with credentials.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.ae.feature:Login with valid credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.ae.feature:Signup with new user credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.ae_feature2.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.ae_feature2.feature:Login with invalid credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.contact.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.contact.feature:User wants to contact.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.contact.feature:Users want to contact.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.firstDemo1.feature:Valid username and password.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.log-inn.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.log-inn.feature:Successful Login.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature2.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature2.feature:Invalid user login.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature2.feature:Valid user login.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature:Invalid user login.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.login.feature:User logs in with different credentials (1).executor&quot;: &quot;Run&quot;,
+    &quot;Behave.login.feature:User logs in with different credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.n1.feature:Test that the login functionality works for different users with varying credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.qwerty.feature.executor&quot;: &quot;Profiler&quot;,
+    &quot;Behave.signup.feature.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.signup.feature:User signs up with different details.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.signup.feature:User signs up.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.testing.feature:Testing google search.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.valid_Invalid_Credentials.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.valid_Invalid_Credentials.feature:Login with valid and invalid credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.valid_Invalid_Credentials.feature:Signup with valid and invalid details.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.valid_Invalid_Credentials.feature:Signup with valid and invalid.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests in test_login_steps.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add_Product_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add__To_Cart.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.L0g_2_in_steps.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Product_Cost_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Signup_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Videos_Tutorial_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ae.feature2_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ae1_steps.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ae_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contact_steps.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.environment (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.environment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.log-inn_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.namedlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project(new).executor&quot;: &quot;Run&quot;,
+    &quot;Python.signup_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.steps1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.valid_Invalid_Credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Python.valid_Invalid_Credentials_steps.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;demo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/srushti/PycharmProjects/newlocalrepo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Behave.Signup.feature">
+    <configuration name="AutomationExercise1" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/newfeatures/AutomationExercise1.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Signup.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/Signup.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Signup.feature:Signup with new user credentials" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/Signup.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Signup with new user credentials" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/newfeatures/testing.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Videos_Tutorial.feature:User wants to watch videos" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/Videos_Tutorial.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="User wants to watch videos" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ae.feature:Login with credentials" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/ae.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Login with credentials" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="environment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlocalrepo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Behave.AutomationExercise1" />
+      <item itemvalue="Behave.Test1" />
+      <item itemvalue="Behave.Videos_Tutorial.feature:User wants to watch videos" />
+      <item itemvalue="Behave.ae.feature:Login with credentials" />
+      <item itemvalue="Behave.Signup.feature" />
+      <item itemvalue="Behave.Signup.feature:Signup with new user credentials" />
+      <item itemvalue="Python.environment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.Signup.feature" />
+        <item itemvalue="Behave.Videos_Tutorial.feature:User wants to watch videos" />
+        <item itemvalue="Python.environment" />
+        <item itemvalue="Behave.ae.feature:Login with credentials" />
+        <item itemvalue="Behave.Signup.feature:Signup with new user credentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab42b24-92ab-45c8-9532-0dbc58aed878" name="Changes" comment="" />
+      <created>1739863955573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739863955573</updated>
+      <workItem from="1739863956622" duration="8409000" />
+      <workItem from="1739928580504" duration="13000" />
+      <workItem from="1739934118819" duration="2318000" />
+      <workItem from="1739936445614" duration="4097000" />
+      <workItem from="1739940555305" duration="108000" />
+      <workItem from="1739942643724" duration="2852000" />
+      <workItem from="1739951456031" duration="142000" />
+      <workItem from="1739952930605" duration="108000" />
+      <workItem from="1739953135273" duration="139000" />
+      <workItem from="1739953742296" duration="626000" />
+      <workItem from="1740019245010" duration="2000" />
+      <workItem from="1740038922817" duration="81000" />
+      <workItem from="1740168197910" duration="624000" />
+      <workItem from="1740451433875" duration="11291000" />
+      <workItem from="1741058981647" duration="14294000" />
+      <workItem from="1741144925080" duration="13715000" />
+      <workItem from="1741193262261" duration="4348000" />
+      <workItem from="1741197624444" duration="3275000" />
+      <workItem from="1741225433272" duration="21173000" />
+      <workItem from="1741314805303" duration="4585000" />
+      <workItem from="1741574266553" duration="16377000" />
+      <workItem from="1741656979670" duration="2592000" />
+      <workItem from="1741662301899" duration="18346000" />
+      <workItem from="1741743165772" duration="14104000" />
+      <workItem from="1741833877657" duration="1125000" />
+      <workItem from="1742347852250" duration="24836000" />
+      <workItem from="1742434090339" duration="21580000" />
+      <workItem from="1742459218905" duration="6320000" />
+      <workItem from="1742470500831" duration="744000" />
+      <workItem from="1742479733279" duration="12000" />
+      <workItem from="1742520616300" duration="2189000" />
+      <workItem from="1742543041195" duration="1843000" />
+      <workItem from="1742546963584" duration="1873000" />
+      <workItem from="1742646699986" duration="571000" />
+      <workItem from="1742742744188" duration="1589000" />
+      <workItem from="1742745988133" duration="362000" />
+      <workItem from="1742779731589" duration="16317000" />
+      <workItem from="1742815255350" duration="976000" />
+      <workItem from="1742837251861" duration="279000" />
+      <workItem from="1742837542128" duration="17000" />
+      <workItem from="1742866028107" duration="2901000" />
+      <workItem from="1742871192056" duration="6837000" />
+      <workItem from="1742888815175" duration="96000" />
+      <workItem from="1742888917401" duration="7869000" />
+      <workItem from="1742904474481" duration="5258000" />
+      <workItem from="1742952374121" duration="2141000" />
+      <workItem from="1742957150472" duration="1886000" />
+      <workItem from="1742970389794" duration="635000" />
+      <workItem from="1742974736076" duration="5900000" />
+      <workItem from="1742990511338" duration="3963000" />
+      <workItem from="1742998890234" duration="874000" />
+      <workItem from="1743034401356" duration="1346000" />
+      <workItem from="1743038736704" duration="1891000" />
+      <workItem from="1743043185476" duration="3511000" />
+      <workItem from="1743054975635" duration="11295000" />
+      <workItem from="1743073725740" duration="2997000" />
+      <workItem from="1743084870594" duration="3535000" />
+      <workItem from="1743125272973" duration="2518000" />
+      <workItem from="1743130717998" duration="9304000" />
+      <workItem from="1743145528602" duration="3987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/newlocalrepo$Add_Product_steps.coverage" NAME="Add_Product_steps Coverage Results" MODIFIED="1742890806431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$environment.coverage" NAME="environment Coverage Results" MODIFIED="1743137736743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$AutomationExercise1_feature_Sign_Up_to_create_an_account.coverage" NAME="AutomationExercise1.feature:Sign Up to create an account Coverage Results" MODIFIED="1741061485689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$namedlist.coverage" NAME="namedlist Coverage Results" MODIFIED="1742361599464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo_1/.venv1/lib/python3.12/site-packages" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSeachTest_feature.coverage" NAME="GoogleSeachTest.feature Coverage Results" MODIFIED="1739936314066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials.coverage" NAME="valid_Invalid_Credentials_steps Coverage Results" MODIFIED="1741230857028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Signup_feature_Signup_with_new_user_credentials.coverage" NAME="Signup.feature:Signup with new user credentials Coverage Results" MODIFIED="1743125406416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$F1_feature_Test_that_the_login_functionality_works_for_different_users_with_varying_credentials.coverage" NAME="F1.feature:Test that the login functionality works for different users with varying credentials Coverage Results" MODIFIED="1740470579941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature_Signup_with_new_user_credentials.coverage" NAME="ae.feature:Signup with new user credentials Coverage Results" MODIFIED="1741662097107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$codes.coverage" NAME="codes Coverage Results" MODIFIED="1741319682108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$firstDemo1_feature_Valid_username_and_password.coverage" NAME="firstDemo1.feature:Valid username and password Coverage Results" MODIFIED="1740468256115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae1_steps.coverage" NAME="ae1_steps Coverage Results" MODIFIED="1742896297603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$testing_feature_Testing_google_search.coverage" NAME="testing.feature:Testing google search Coverage Results" MODIFIED="1741060267592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$signup_feature_User_signs_up_with_different_details.coverage" NAME="signup.feature:User signs up with different details Coverage Results" MODIFIED="1741065632228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature2_feature_Login_with_invalid_credentials.coverage" NAME="ae_feature2.feature:Login with invalid credentials Coverage Results" MODIFIED="1742977103225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSeach.coverage" NAME="GoogleSeach Coverage Results" MODIFIED="1739937969376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$.coverage" NAME=" Coverage Results" MODIFIED="1739870878032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature2_steps.coverage" NAME="ae.feature2_steps Coverage Results" MODIFIED="1742977096539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$project_new_.coverage" NAME="project(new) Coverage Results" MODIFIED="1739867699411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$steps1.coverage" NAME="steps1 Coverage Results" MODIFIED="1741061230590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newfeatures/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Add_Product_feature_Add_the_items_to_the_cart.coverage" NAME="Add_Product.feature:Add the items to the cart Coverage Results" MODIFIED="1742891121708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$contact_steps_py.coverage" NAME="contact_steps.py Coverage Results" MODIFIED="1742892988962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$SearchResults.coverage" NAME="SearchResults Coverage Results" MODIFIED="1739938411022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature.coverage" NAME="ae.feature Coverage Results" MODIFIED="1742906180522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Product_Cost_feature.coverage" NAME="Product_Cost.feature Coverage Results" MODIFIED="1742909651532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Product_Cost_steps.coverage" NAME="Product_Cost_steps Coverage Results" MODIFIED="1742909674644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_steps.coverage" NAME="ae_steps Coverage Results" MODIFIED="1741197826438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/project/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSearch.coverage" NAME="GoogleSearch Coverage Results" MODIFIED="1739936795272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Add_Product_feature.coverage" NAME="Add_Product.feature Coverage Results" MODIFIED="1742890885060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature_User_logs_in_with_different_credentials__1_.coverage" NAME="login.feature:User logs in with different credentials (1) Coverage Results" MODIFIED="1741074398211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature.coverage" NAME="login.feature Coverage Results" MODIFIED="1741074538345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$contact_feature.coverage" NAME="contact.feature Coverage Results" MODIFIED="1742905183695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSearchTest_feature_test_google_search.coverage" NAME="GoogleSearchTest.feature:test google search Coverage Results" MODIFIED="1739937965144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSearchTest.coverage" NAME="GoogleSearchTest Coverage Results" MODIFIED="1739937826714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials_feature_Signup_with_valid_and_invalid_details.coverage" NAME="valid_Invalid_Credentials.feature:Signup with valid and invalid details Coverage Results" MODIFIED="1741748360627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSearchTest_feature_.coverage" NAME="GoogleSearchTest.feature: Coverage Results" MODIFIED="1739937303909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Signup_steps.coverage" NAME="Signup_steps Coverage Results" MODIFIED="1743076336229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature_User_logs_in_with_different_credentials.coverage" NAME="login.feature:User logs in with different credentials Coverage Results" MODIFIED="1741074005215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature2_feature.coverage" NAME="ae_feature2.feature Coverage Results" MODIFIED="1742906207395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature2_feature.coverage" NAME="login.feature2.feature Coverage Results" MODIFIED="1741061488738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$n1_feature_Test_that_the_login_functionality_works_for_different_users_with_varying_credentials.coverage" NAME="n1.feature:Test that the login functionality works for different users with varying credentials Coverage Results" MODIFIED="1740470374548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$environment__1_.coverage" NAME="environment (1) Coverage Results" MODIFIED="1741064929223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials_feature_Login_with_valid_and_invalid_credentials.coverage" NAME="valid_Invalid_Credentials.feature:Login with valid and invalid credentials Coverage Results" MODIFIED="1741748442305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature_Login_with_credentials.coverage" NAME="ae.feature:Login with credentials Coverage Results" MODIFIED="1743130973935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Product_Cost_feature_User_wants_to_check_the_price.coverage" NAME="Product_Cost.feature:User wants to check the price Coverage Results" MODIFIED="1742909635227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1741060282842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature2_feature_Invalid_user_login.coverage" NAME="login.feature2.feature:Invalid user login Coverage Results" MODIFIED="1741060031608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials_steps.coverage" NAME="valid_Invalid_Credentials_steps Coverage Results" MODIFIED="1742867461498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$signup_feature.coverage" NAME="signup.feature Coverage Results" MODIFIED="1741064943686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials_feature.coverage" NAME="valid_Invalid_Credentials.feature Coverage Results" MODIFIED="1741749686830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$log_inn_steps.coverage" NAME="log-inn_steps Coverage Results" MODIFIED="1742807688151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Google.coverage" NAME="Google Coverage Results" MODIFIED="1739937089900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$log_inn_feature_Successful_Login.coverage" NAME="log-inn.feature:Successful Login Coverage Results" MODIFIED="1742892246928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$ae_feature_Login_with_valid_credentials.coverage" NAME="ae.feature:Login with valid credentials Coverage Results" MODIFIED="1742895924318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature2_feature_Valid_user_login.coverage" NAME="login.feature2.feature:Valid user login Coverage Results" MODIFIED="1741061167510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Videos_Tutorial_steps.coverage" NAME="Videos_Tutorial_steps Coverage Results" MODIFIED="1742908427047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_feature_Invalid_user_login.coverage" NAME="login.feature:Invalid user login Coverage Results" MODIFIED="1741063246639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Add__To_Cart_feature_Add_the_items_to_the_cart.coverage" NAME="Add__To_Cart.feature:Add the items to the cart Coverage Results" MODIFIED="1741584566224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$signup_feature_User_signs_up.coverage" NAME="signup.feature:User signs up Coverage Results" MODIFIED="1741148596977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$log_inn_feature.coverage" NAME="log-inn.feature Coverage Results" MODIFIED="1742892677222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Add__To_Cart.coverage" NAME="Add__To_Cart Coverage Results" MODIFIED="1742368959853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Videos_Tutorial_feature_User_wants_to_watch_videos.coverage" NAME="Videos_Tutorial.feature:User wants to watch videos Coverage Results" MODIFIED="1743137740844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSeachTest_feature_test_google_search.coverage" NAME="GoogleSeachTest.feature:test google search Coverage Results" MODIFIED="1739936316313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Videos_Tutorial_feature.coverage" NAME="Videos_Tutorial.feature Coverage Results" MODIFIED="1742908768094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$valid_Invalid_Credentials_feature_Signup_with_valid_and_invalid.coverage" NAME="valid_Invalid_Credentials.feature:Signup with valid and invalid Coverage Results" MODIFIED="1741749632058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$GoogleSearchTest_feature_Test_google_search.coverage" NAME="GoogleSearchTest.feature:Test google search Coverage Results" MODIFIED="1739937046833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$contact_feature_User_wants_to_contact.coverage" NAME="contact.feature:User wants to contact Coverage Results" MODIFIED="1742815809907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$contact_feature_Users_want_to_contact.coverage" NAME="contact.feature:Users want to contact Coverage Results" MODIFIED="1742896591180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Signup_feature.coverage" NAME="Signup.feature Coverage Results" MODIFIED="1743140410705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$Log_2_in_feature_Successful_Login.coverage" NAME="Log_2_in.feature:Successful Login Coverage Results" MODIFIED="1742434504677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$login_steps.coverage" NAME="login_steps Coverage Results" MODIFIED="1741146851828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$AutomationExercise1.coverage" NAME="AutomationExercise1 Coverage Results" MODIFIED="1741061566866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$signup_steps.coverage" NAME="signup_steps Coverage Results" MODIFIED="1741194992540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/steps" />
+    <SUITE FILE_PATH="coverage/newlocalrepo$L0g_2_in_steps.coverage" NAME="L0g_2_in_steps Coverage Results" MODIFIED="1742434440334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+  </component>
+</project>
